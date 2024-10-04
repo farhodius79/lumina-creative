@@ -194,11 +194,11 @@ img {
 
 .gallery-item {
     width: calc(33.333% - 20px);
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 .gallery-item img {
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .gallery-item:hover {
@@ -232,6 +232,17 @@ img {
 .footer a {
     margin: 0.3rem;
 }
+
+.fa-facebook:hover,
+.fa-twitter:hover {
+    color: lightblue;
+    background-color: #fff;
+  }
+.fa-youtube:hover, 
+.fa-pinterest:hover {
+    color: red;
+    background-color: #fff;
+  }
 
 /* Services */
 
