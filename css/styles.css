@@ -362,20 +362,20 @@ img {
 
     }
 
-    .gallery-item img {
+    /* .gallery-item img {
         border-radius: 50%;
         width: 80%;
-        margin: 15px 30px;
+        margin: 15px 30px; */
 
-    }
+}
 
-    .gallery {
-        background-color: #ebebeb;
+.gallery {
+    background-color: #ebebeb;
 
-    }
+}
 
-    .footer .footer-flex {
-        text-align: center;
+.footer .footer-flex {
+    text-align: center;
 
-    }
+}
 }
