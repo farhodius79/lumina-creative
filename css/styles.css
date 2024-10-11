@@ -371,7 +371,7 @@ img {
 
 .gallery-item img {
     border-radius: 5px;
-    width: 120px;
+    width: 280px;
     height: 300px;
     object-fit: cover;
 }
