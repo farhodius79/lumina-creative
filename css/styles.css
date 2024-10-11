@@ -343,8 +343,9 @@ img {
     .header .header-flex,
     .footer .footer-flex,
     .services .services-flex,
-    .team .team-flex {
-        flex-direction: column;
+    .team .team-flex,
+    .gallery-grid {
+        grid-template-columns: 3fr 3fr;
         gap: 1.5rem;
     }
 
@@ -358,7 +359,7 @@ img {
 
     .gallery-item {
         /* width: calc(50% - 20px); */
-        width: calc(33.333% - 20px);
+        /* width: calc(33.333% - 20px); */
 
     }
 
