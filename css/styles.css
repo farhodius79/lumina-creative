@@ -346,6 +346,7 @@ img {
     .gallery-grid {
         grid-template-columns: 3fr 3fr;
         gap: 1.5rem;
+        flex-direction: column;
     }
 
     .hero {
