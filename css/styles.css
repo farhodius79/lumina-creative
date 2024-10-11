@@ -369,6 +369,13 @@ img {
 
 }
 
+.gallery-item img {
+    border-radius: 5px;
+    width: 120px;
+    height: 300px;
+    object-fit: cover;
+}
+
 .gallery {
     background-color: #ebebeb;
 
@@ -377,5 +384,4 @@ img {
 .footer .footer-flex {
     text-align: center;
 
-}
 }
